@@ -1,0 +1,16 @@
+basket_size,delay_status,order_count
+1,retraso corto,23
+1,retraso largo,43
+1,sin retraso,42
+2,retraso corto,21
+2,retraso largo,43
+2,sin retraso,36
+3,retraso corto,17
+3,retraso largo,48
+3,sin retraso,42
+4,retraso corto,19
+4,retraso largo,49
+4,sin retraso,32
+5,retraso corto,17
+5,retraso largo,29
+5,sin retraso,39
