@@ -1,0 +1,498 @@
+geolocation_zip_code_prefix,geolocation_lat,geolocation_lng,geolocation_city,geolocation_state,abbreviation,state_name
+58023,64.1016175,-61.328376,Sampaio,MG,MG,Minas Gerais
+95831,64.623295,-133.96239,Campos de Cavalcante,SP,SP,São Paulo
+85354,-35.308979,-15.709542,Brito,RJ,RJ,Rio de Janeiro
+76124,82.94199,-87.334546,Garcia das Flores,SP,SP,São Paulo
+84031,44.561621,104.577027,Alves Alegre,PR,PR,Paraná
+46951,-84.6664035,162.246978,Alves,BA,BA,Bahia
+22895,-53.0567615,163.759784,da Conceição,RJ,RJ,Rio de Janeiro
+16760,75.481822,122.747928,Lima,SC,SC,Santa Catarina
+53105,30.451889,-112.564246,Cassiano de Rodrigues,SC,SC,Santa Catarina
+58683,49.2368115,-36.958171,Aragão,RJ,RJ,Rio de Janeiro
+69748,89.699137,-149.186237,Andrade,SC,SC,Santa Catarina
+30553,-70.7337765,93.235807,Barros,MG,MG,Minas Gerais
+90798,-51.4869795,4.419134,da Paz,SP,SP,São Paulo
+97480,2.333262,66.299196,Silveira,SP,SP,São Paulo
+50929,-36.337757,60.434577,Carvalho das Pedras,MG,MG,Minas Gerais
+38014,-59.187762,-148.764898,Araújo de Minas,MG,MG,Minas Gerais
+84575,-52.050791,-12.651231,Barros de Minas,MG,MG,Minas Gerais
+28098,-68.0286865,97.913097,Machado,SP,SP,São Paulo
+33100,60.7208035,21.017106,Vasconcelos,MG,MG,Minas Gerais
+43039,74.656537,-139.840521,Viana,PR,PR,Paraná
+30735,-16.4156325,88.361457,Novais,MG,MG,Minas Gerais
+20611,-76.155796,113.474584,Machado,PR,PR,Paraná
+15604,49.2557375,18.685409,Santos de Jesus,MG,MG,Minas Gerais
+89741,26.712064,7.438377,Borges,SC,SC,Santa Catarina
+50551,-1.1466625,-73.972833,Cavalcante Verde,BA,BA,Bahia
+00046,-47.8695395,124.96584,Jesus do Campo,SC,SC,Santa Catarina
+76345,-20.126662,-49.699853,Silva,MG,MG,Minas Gerais
+18642,58.973133,-112.502136,Garcia,SP,SP,São Paulo
+70934,82.351991,-29.766126,Nascimento do Galho,MG,MG,Minas Gerais
+51955,-30.3002965,-12.119897,Vargas de Minas,BA,BA,Bahia
+15410,-0.1952475,165.520788,da Mata,MG,MG,Minas Gerais
+91424,65.0682555,170.316223,Nascimento de Minas,PR,PR,Paraná
+08658,-45.184814,136.705039,Machado do Oeste,BA,BA,Bahia
+17694,2.32454,-92.646978,Ferreira,MG,MG,Minas Gerais
+27808,-89.2704575,-142.129827,Pacheco,MG,MG,Minas Gerais
+77823,32.9597805,-33.570671,Caldeira Grande,MG,MG,Minas Gerais
+48248,-72.099748,153.734766,Vargas de Aparecida,BA,BA,Bahia
+39155,13.4840925,70.97282,da Mota,SP,SP,São Paulo
+39907,40.0268915,-126.603185,Almeida do Amparo,SP,SP,São Paulo
+78205,74.70295,-16.082393,Barbosa das Flores,SC,SC,Santa Catarina
+65352,25.281748,68.259587,Albuquerque,BA,BA,Bahia
+51424,-23.84422,146.784157,Fonseca Paulista,SP,SP,São Paulo
+83635,-0.9959275,85.447497,Aparecida,SP,SP,São Paulo
+99415,9.777031,154.352179,da Mota Grande,SP,SP,São Paulo
+66826,44.6697625,118.884088,Albuquerque da Praia,RJ,RJ,Rio de Janeiro
+07040,-51.441357,-163.122752,Souza da Mata,SP,SP,São Paulo
+74738,22.77104,27.616842,Novaes,RJ,RJ,Rio de Janeiro
+59258,-16.4038785,82.020025,Nogueira da Praia,SP,SP,São Paulo
+53526,-9.644812,-175.764281,Campos,SC,SC,Santa Catarina
+30056,43.899651,-40.006966,Gomes das Flores,SP,SP,São Paulo
+11553,-70.244705,-158.656078,Abreu,MG,MG,Minas Gerais
+12800,-33.0656835,83.441741,Marques,MG,MG,Minas Gerais
+52427,7.3766295,11.078905,Montenegro do Norte,SC,SC,Santa Catarina
+02324,-68.5523295,81.403227,Moreira da Prata,SP,SP,São Paulo
+05719,63.9790725,-14.156455,Ferreira,PR,PR,Paraná
+74653,-46.545626,-100.242313,Brito de Goiás,PR,PR,Paraná
+04799,-18.3093565,173.676252,Guerra Grande,SC,SC,Santa Catarina
+88995,26.2062795,-29.645659,Leão,RJ,RJ,Rio de Janeiro
+82001,64.607739,-66.076025,Rocha,RJ,RJ,Rio de Janeiro
+86892,0.647943,124.814762,Cavalcanti Paulista,RJ,RJ,Rio de Janeiro
+85373,65.016961,173.404146,Mendonça,MG,MG,Minas Gerais
+31289,12.2744825,-20.674318,Aragão do Norte,SC,SC,Santa Catarina
+45042,21.971145,-0.009444,Cassiano,RJ,RJ,Rio de Janeiro
+10977,21.573001,7.567029,Alves do Norte,BA,BA,Bahia
+28299,-24.0206845,-124.093133,da Paz,MG,MG,Minas Gerais
+39936,40.102961,-135.791785,Teixeira,BA,BA,Bahia
+35303,-86.0835375,-54.167485,da Cunha da Mata,BA,BA,Bahia
+06397,-31.024052,-110.264617,Jesus,SP,SP,São Paulo
+86140,-15.6780075,-68.496628,Mendonça de Ferreira,BA,BA,Bahia
+21294,-71.369249,-25.991947,Moraes de Melo,RJ,RJ,Rio de Janeiro
+85127,82.8162235,110.954204,Moraes do Galho,SP,SP,São Paulo
+16576,-2.675951,-93.240274,Siqueira de Cardoso,MG,MG,Minas Gerais
+65278,-30.3400185,157.313717,Costa,MG,MG,Minas Gerais
+59209,60.787858,110.075283,Moraes de Moura,RJ,RJ,Rio de Janeiro
+20138,-35.4922025,149.2315,Siqueira do Campo,SP,SP,São Paulo
+37138,20.9811425,-175.489508,das Neves,BA,BA,Bahia
+92086,18.9292735,-136.741169,Casa Grande,SC,SC,Santa Catarina
+99145,-43.5944435,173.173866,Silva,BA,BA,Bahia
+40150,23.1543925,-17.665465,Pacheco,BA,BA,Bahia
+40826,-38.8176605,-61.732117,da Mata da Prata,RJ,RJ,Rio de Janeiro
+37583,-6.11467,-27.898449,Jesus,SC,SC,Santa Catarina
+29728,58.3872225,24.035696,da Paz,SC,SC,Santa Catarina
+20936,-41.3078475,-3.371718,Correia das Flores,MG,MG,Minas Gerais
+54053,-79.863457,-16.675757,Correia,RJ,RJ,Rio de Janeiro
+13820,-52.0778715,104.505896,Lima,BA,BA,Bahia
+66700,82.9015075,-84.175532,Andrade da Serra,SP,SP,São Paulo
+73893,-70.2826555,-50.755036,Melo,MG,MG,Minas Gerais
+32604,69.359325,143.242324,Vieira de Minas,MG,MG,Minas Gerais
+48986,-80.820728,-103.957785,Guerra Alegre,PR,PR,Paraná
+24866,73.933903,116.870128,Jesus,SC,SC,Santa Catarina
+94277,59.0187145,147.945605,Costela,RJ,RJ,Rio de Janeiro
+25470,-18.6535705,-175.026949,Silveira,MG,MG,Minas Gerais
+10286,73.2869815,-47.324466,Guerra,RJ,RJ,Rio de Janeiro
+01158,-33.940828,-5.841683,Fonseca,PR,PR,Paraná
+04017,83.3077845,-79.488228,Silveira da Prata,MG,MG,Minas Gerais
+98298,-44.666549,28.966713,Fernandes,RJ,RJ,Rio de Janeiro
+24250,47.3242365,-54.700475,Souza,SC,SC,Santa Catarina
+31146,-62.505274,-15.614574,Fernandes,RJ,RJ,Rio de Janeiro
+09198,58.8005415,20.209156,Araújo do Galho,SC,SC,Santa Catarina
+52822,-76.545569,-88.074187,Carvalho das Flores,PR,PR,Paraná
+06426,-32.06228,0.975867,Martins,SP,SP,São Paulo
+02505,14.050245,-71.113473,da Conceição,PR,PR,Paraná
+51869,-2.4305265,-60.359719,da Mata de Almeida,MG,MG,Minas Gerais
+77087,68.547956,119.652097,Albuquerque,PR,PR,Paraná
+51357,-88.420775,-174.798612,Moura,RJ,RJ,Rio de Janeiro
+85901,19.5703775,168.46669,Rezende,SC,SC,Santa Catarina
+55282,-76.2494015,158.444669,Sales do Oeste,PR,PR,Paraná
+41378,-77.275393,-9.849547,Santos,SP,SP,São Paulo
+20140,-31.115453,161.60158,Carvalho do Galho,PR,PR,Paraná
+51907,-45.117026,49.638062,Nunes da Praia,PR,PR,Paraná
+83030,-47.2854065,92.73735,Nunes de Gomes,SC,SC,Santa Catarina
+04126,-57.328366,-29.915799,Pinto dos Dourados,SP,SP,São Paulo
+21738,25.3734665,60.597279,Vieira,SP,SP,São Paulo
+21771,-21.940792,135.395887,Sampaio do Galho,BA,BA,Bahia
+70309,6.496937,-176.996857,Cassiano de Moura,PR,PR,Paraná
+44716,-16.2405795,-122.915511,Sá,PR,PR,Paraná
+23811,5.0844045,21.738516,Aragão,SP,SP,São Paulo
+73040,19.4006775,7.792232,Moreira Paulista,SC,SC,Santa Catarina
+66718,45.880612,-150.054295,Camargo do Amparo,RJ,RJ,Rio de Janeiro
+93667,2.6248265,-80.364118,Fogaça das Pedras,RJ,RJ,Rio de Janeiro
+83024,68.815346,140.183896,Fogaça,SC,SC,Santa Catarina
+09406,-88.5243645,-60.145091,Aparecida Paulista,SP,SP,São Paulo
+48729,77.19259,-141.956042,Fonseca,MG,MG,Minas Gerais
+58549,-6.856845,-81.512649,Pacheco,SC,SC,Santa Catarina
+34067,36.455996,-124.178739,Cassiano de Minas,SC,SC,Santa Catarina
+27637,-0.236544,-152.135143,Cirino do Sul,PR,PR,Paraná
+23968,39.413691,17.236938,Pereira,SC,SC,Santa Catarina
+95838,49.728812,123.813719,Souza,RJ,RJ,Rio de Janeiro
+85934,-72.859972,117.548265,Sousa,MG,MG,Minas Gerais
+83952,-24.1692695,75.032573,Casa Grande,SP,SP,São Paulo
+30712,-39.5120105,-25.172161,Monteiro,SC,SC,Santa Catarina
+13500,42.6291915,-4.737734,Cavalcante de Barbosa,SP,SP,São Paulo
+13000,65.5103415,-20.292587,Casa Grande,PR,PR,Paraná
+98507,79.428309,74.571571,Moura do Sul,SC,SC,Santa Catarina
+70070,-13.1657525,-139.347198,Almeida,SC,SC,Santa Catarina
+10866,-63.930444,105.542367,Fonseca de Camargo,RJ,RJ,Rio de Janeiro
+17684,1.850851,-67.822105,Moreira,SC,SC,Santa Catarina
+33381,58.758247,-168.492963,Silveira,RJ,RJ,Rio de Janeiro
+48578,-53.4605505,-54.154319,Costela de Costela,SP,SP,São Paulo
+21715,62.8229945,163.00637,Novais da Mata,MG,MG,Minas Gerais
+18655,-38.8804845,-179.920359,Azevedo,PR,PR,Paraná
+13445,10.0840555,119.120369,das Neves de Silva,SP,SP,São Paulo
+62396,-75.8381955,168.16356,Albuquerque,SP,SP,São Paulo
+71591,38.3821555,-36.783616,da Luz,SC,SC,Santa Catarina
+24748,-55.589589,-17.132031,Sampaio da Prata,BA,BA,Bahia
+54917,0.6277015,-129.821898,Andrade Verde,BA,BA,Bahia
+30168,-53.9107585,-156.908238,Monteiro de Goiás,RJ,RJ,Rio de Janeiro
+42370,16.326881,-69.707025,Oliveira das Pedras,SC,SC,Santa Catarina
+67551,-81.755682,-154.635683,Câmara,MG,MG,Minas Gerais
+88815,61.268831,-158.345795,Silveira,PR,PR,Paraná
+45188,49.424598,-87.451301,Melo de Minas,MG,MG,Minas Gerais
+18225,-41.839281,168.983392,Guerra,SP,SP,São Paulo
+08251,-25.940267,-34.642716,Nogueira Paulista,MG,MG,Minas Gerais
+13710,55.90375,-46.412499,da Rocha,SC,SC,Santa Catarina
+33901,-55.69159,1.833314,Machado,RJ,RJ,Rio de Janeiro
+32056,47.422538,-86.021422,Santos,SP,SP,São Paulo
+12032,17.0982035,82.728968,Farias,MG,MG,Minas Gerais
+21938,79.2482595,155.262607,Albuquerque do Norte,SC,SC,Santa Catarina
+13064,79.242387,26.319718,Cassiano,RJ,RJ,Rio de Janeiro
+97244,10.212049,163.683109,Rodrigues,RJ,RJ,Rio de Janeiro
+10125,37.419486,-155.953907,Ribeiro,BA,BA,Bahia
+38179,-32.1585215,113.228041,Vasconcelos de Moura,PR,PR,Paraná
+50993,77.8789195,-120.918402,Correia do Sul,BA,BA,Bahia
+19932,-71.4343905,70.503433,Mendes da Praia,SP,SP,São Paulo
+56380,86.007156,-5.813304,Guerra,PR,PR,Paraná
+02109,68.799789,-165.098391,Aparecida de Pinto,BA,BA,Bahia
+00230,-46.417597,43.210416,das Neves,SC,SC,Santa Catarina
+69800,-0.9460065,85.957412,Aparecida dos Dourados,BA,BA,Bahia
+85588,44.65279,171.982011,Alves,PR,PR,Paraná
+77466,-25.9139675,23.769144,Nunes de Camargo,BA,BA,Bahia
+78758,-53.4913975,135.481235,Camargo,MG,MG,Minas Gerais
+24946,7.773952,122.213512,Correia Paulista,SC,SC,Santa Catarina
+58958,77.618785,-18.047234,da Rocha do Campo,PR,PR,Paraná
+34656,4.8018275,-150.953951,Marques,BA,BA,Bahia
+58927,-46.7069325,-5.142817,Mendes Grande,BA,BA,Bahia
+84341,38.2169175,80.029536,Moura,SC,SC,Santa Catarina
+13635,-89.3343195,-69.668194,Lopes dos Dourados,RJ,RJ,Rio de Janeiro
+34099,-30.9437955,-42.973909,Mendonça do Campo,RJ,RJ,Rio de Janeiro
+19223,48.5476135,134.766913,Pires de Casa Grande,RJ,RJ,Rio de Janeiro
+28309,68.2469795,-56.553342,Almeida,SP,SP,São Paulo
+19101,23.009787,-77.767509,Mendes,SC,SC,Santa Catarina
+83652,-51.035267,-154.831524,Pastor de Vieira,PR,PR,Paraná
+96285,77.5779145,-87.456323,Pastor do Norte,BA,BA,Bahia
+52188,71.234951,157.133882,Siqueira,MG,MG,Minas Gerais
+61233,79.2292625,118.793431,Monteiro,SC,SC,Santa Catarina
+86769,-21.214138,8.269884,Moreira de da Mata,PR,PR,Paraná
+81329,34.94155,-137.243127,da Paz,RJ,RJ,Rio de Janeiro
+63595,3.4483975,-77.266357,Monteiro de Vasconcelos,PR,PR,Paraná
+98095,17.2581605,60.536287,Albuquerque de Correia,RJ,RJ,Rio de Janeiro
+58385,-64.590146,-0.488453,Campos,SC,SC,Santa Catarina
+46481,77.3251825,-114.725759,Fogaça,SC,SC,Santa Catarina
+82722,62.8783875,-63.671661,Alves,SP,SP,São Paulo
+52513,14.531043,-28.691548,Souza de Monteiro,SC,SC,Santa Catarina
+14978,41.02959,112.024865,Cunha,BA,BA,Bahia
+59215,79.346596,-32.178576,Caldeira,PR,PR,Paraná
+09896,73.57599,-100.552436,da Costa,PR,PR,Paraná
+00187,39.153466,-75.087033,Sá,MG,MG,Minas Gerais
+92303,43.5025365,-46.39958,Nogueira de Minas,RJ,RJ,Rio de Janeiro
+42260,-38.133437,-148.075098,da Rosa Grande,PR,PR,Paraná
+74631,-70.2609275,159.811399,Moraes do Sul,MG,MG,Minas Gerais
+49682,-52.894279,3.864682,Guerra de Silveira,PR,PR,Paraná
+32976,14.886212,-164.842918,Caldeira,BA,BA,Bahia
+56471,70.3303615,44.707494,Pacheco de da Cunha,RJ,RJ,Rio de Janeiro
+40263,38.8490765,-87.261988,Lopes do Amparo,SP,SP,São Paulo
+79612,-20.2576,165.930598,Câmara,SP,SP,São Paulo
+82374,-8.157829,-172.885717,Moraes da Prata,MG,MG,Minas Gerais
+89380,34.5518845,-30.955607,da Rosa de Goiás,SP,SP,São Paulo
+35035,47.638715,133.015984,Oliveira,BA,BA,Bahia
+64300,-60.9234675,-7.197182,Borges das Pedras,SP,SP,São Paulo
+02025,-29.8174485,139.792642,Câmara de Goiás,BA,BA,Bahia
+02650,-51.553197,-173.195396,Pires do Sul,BA,BA,Bahia
+77794,28.430877,-31.078429,da Costa,SP,SP,São Paulo
+69444,-10.5832915,-73.139566,Cirino,SP,SP,São Paulo
+14331,2.2643665,-177.43134,Borges do Amparo,RJ,RJ,Rio de Janeiro
+47539,24.8857195,21.225176,Ribeiro,SP,SP,São Paulo
+04012,69.0796225,119.810549,Albuquerque Verde,MG,MG,Minas Gerais
+70780,30.394317,138.756378,Duarte de Goiás,BA,BA,Bahia
+86669,-6.559152,76.653282,Oliveira,SC,SC,Santa Catarina
+83823,2.973843,-41.318963,Sampaio,BA,BA,Bahia
+67234,-48.16978,-151.031301,Novais das Pedras,BA,BA,Bahia
+49569,55.9878935,-95.113482,Moreira,BA,BA,Bahia
+37275,36.710011,-173.890077,Pimenta,MG,MG,Minas Gerais
+02133,-68.563588,135.047099,Viana,MG,MG,Minas Gerais
+10127,-77.9391275,147.048627,Duarte de Minas,PR,PR,Paraná
+88234,79.411461,-172.206173,Barros do Norte,PR,PR,Paraná
+37919,20.739091,69.571778,Nascimento das Flores,BA,BA,Bahia
+04521,-87.0254645,172.168881,Cavalcante,MG,MG,Minas Gerais
+11138,46.1588695,162.848698,Cardoso,SP,SP,São Paulo
+00284,-8.6549995,115.596571,da Cruz,MG,MG,Minas Gerais
+64370,56.2015785,69.90443,Pastor Verde,SC,SC,Santa Catarina
+10326,-75.3425985,103.748137,Melo Verde,SC,SC,Santa Catarina
+48625,56.393476,109.465421,Viana,PR,PR,Paraná
+99853,77.321176,170.742111,Mendes,RJ,RJ,Rio de Janeiro
+27283,7.4167785,-162.429185,Teixeira,MG,MG,Minas Gerais
+78148,39.042533,139.276267,Pinto Alegre,BA,BA,Bahia
+11628,-12.7602355,123.252718,Lopes,PR,PR,Paraná
+93195,34.423162,-25.281765,Vasconcelos Alegre,MG,MG,Minas Gerais
+61324,54.861153,-117.879984,Vargas do Sul,BA,BA,Bahia
+32240,54.0880155,-52.171367,Viana,SC,SC,Santa Catarina
+96219,55.7833005,12.385365,Camargo Verde,RJ,RJ,Rio de Janeiro
+69553,3.4082705,83.403303,Câmara de Dias,RJ,RJ,Rio de Janeiro
+45477,25.5512945,-162.318215,Melo do Norte,SC,SC,Santa Catarina
+28521,-18.9716765,1.989881,Caldeira de Machado,SC,SC,Santa Catarina
+69672,32.3977585,-98.944701,Camargo,SC,SC,Santa Catarina
+13996,-65.2615795,-70.300246,Sá,MG,MG,Minas Gerais
+42381,36.955272,-27.542851,Guerra do Oeste,SC,SC,Santa Catarina
+46658,78.4112205,138.303252,Nascimento Grande,MG,MG,Minas Gerais
+48283,30.4943565,-143.194197,Silva do Norte,MG,MG,Minas Gerais
+11266,80.6617765,-165.128187,Moraes de Siqueira,RJ,RJ,Rio de Janeiro
+14621,32.894984,172.834432,Leão,PR,PR,Paraná
+72734,3.8955045,47.935572,Teixeira dos Dourados,MG,MG,Minas Gerais
+47942,-0.262655,31.090501,Martins do Amparo,RJ,RJ,Rio de Janeiro
+09243,72.706384,-163.438474,Macedo Grande,SP,SP,São Paulo
+67523,63.8701525,46.619091,Pereira,PR,PR,Paraná
+57888,2.2331535,19.544614,Oliveira de Brito,BA,BA,Bahia
+18441,-50.905339,32.968511,da Mata Grande,BA,BA,Bahia
+08264,62.389245,78.181368,Silva Paulista,RJ,RJ,Rio de Janeiro
+08921,-24.6666465,-144.850048,Martins,MG,MG,Minas Gerais
+19140,50.085729,-174.928444,Fernandes,SC,SC,Santa Catarina
+88275,-69.687246,84.224128,Pacheco,PR,PR,Paraná
+27315,88.1386015,-66.144389,da Rosa de Goiás,SP,SP,São Paulo
+11815,-22.940759,-32.354503,das Neves,SP,SP,São Paulo
+60611,56.2443955,-82.962864,Macedo de Teixeira,PR,PR,Paraná
+85288,1.1085135,104.429811,Vargas,SP,SP,São Paulo
+95089,9.9795165,-15.464682,Ferreira,BA,BA,Bahia
+76583,-89.9857385,43.173433,Vargas do Sul,SC,SC,Santa Catarina
+44451,-1.3624095,125.173466,da Luz,BA,BA,Bahia
+46818,-51.753326,35.406641,Novais do Sul,PR,PR,Paraná
+30128,41.389517,53.257531,das Neves,SP,SP,São Paulo
+59463,-50.477527,-157.750423,Carvalho,BA,BA,Bahia
+50810,13.773255,-80.485229,Sá da Mata,MG,MG,Minas Gerais
+43744,79.084846,-176.226139,Ramos,BA,BA,Bahia
+01535,73.728413,-178.132046,Araújo,RJ,RJ,Rio de Janeiro
+73833,-65.2608865,-176.434786,Ramos,SC,SC,Santa Catarina
+91181,62.4185585,1.57323,Jesus do Norte,SP,SP,São Paulo
+25920,-77.040802,57.270558,Sales,SC,SC,Santa Catarina
+70868,22.2741945,-173.639686,Cunha da Mata,SC,SC,Santa Catarina
+13487,30.752733,46.19756,Guerra do Campo,BA,BA,Bahia
+95024,80.829006,-77.67377,Fogaça do Norte,RJ,RJ,Rio de Janeiro
+00365,-32.23841,-70.513774,Mendonça de Borges,MG,MG,Minas Gerais
+84415,-33.18395,103.351888,Araújo do Galho,RJ,RJ,Rio de Janeiro
+93461,38.2796415,141.861663,Aparecida do Galho,BA,BA,Bahia
+49705,47.131163,138.026285,Novais Alegre,RJ,RJ,Rio de Janeiro
+14530,66.297974,-91.694917,Gomes,MG,MG,Minas Gerais
+01193,-72.2833255,-27.977974,Leão,MG,MG,Minas Gerais
+67607,31.8864675,32.116713,Costela,RJ,RJ,Rio de Janeiro
+53790,-46.2977255,164.491151,da Luz do Norte,SP,SP,São Paulo
+81589,71.9750455,-82.621138,Aparecida de Goiás,SC,SC,Santa Catarina
+15367,-85.384678,-36.882386,Marques,SP,SP,São Paulo
+01748,-57.4596695,-112.878096,Fernandes do Sul,RJ,RJ,Rio de Janeiro
+17767,73.5186155,0.024487,Abreu do Galho,RJ,RJ,Rio de Janeiro
+48706,85.45444,92.216567,Abreu das Flores,MG,MG,Minas Gerais
+45127,-50.897895,-53.293079,Almeida,MG,MG,Minas Gerais
+74105,60.2023885,-138.486673,Azevedo,BA,BA,Bahia
+62524,-38.91032,-53.226374,Jesus,SP,SP,São Paulo
+64180,27.3536005,-65.96412,Garcia,SP,SP,São Paulo
+81748,2.1017745,-11.797587,Casa Grande,BA,BA,Bahia
+23318,53.742923,-6.844278,Melo Alegre,SC,SC,Santa Catarina
+05559,44.2987295,170.306489,Nascimento de Cunha,SP,SP,São Paulo
+82972,80.40073,-5.125066,Sousa da Prata,SP,SP,São Paulo
+48271,67.605322,-115.48234,Cassiano,MG,MG,Minas Gerais
+63453,87.918856,151.379965,Rocha de Fonseca,MG,MG,Minas Gerais
+80550,-55.879075,4.923542,Abreu,SP,SP,São Paulo
+85005,69.0347825,141.654124,Sampaio,MG,MG,Minas Gerais
+84282,-2.0369195,-166.42198,Mendes,MG,MG,Minas Gerais
+44912,-83.5792015,-118.570117,Cunha de Goiás,BA,BA,Bahia
+56228,66.083469,-42.651061,Araújo,SP,SP,São Paulo
+42300,11.3766375,-135.030043,Cassiano do Norte,SP,SP,São Paulo
+11340,47.5252735,-165.408996,Rodrigues de Caldeira,SC,SC,Santa Catarina
+30158,-65.866428,-108.084834,Nascimento da Mata,RJ,RJ,Rio de Janeiro
+79078,47.1928265,28.907101,Macedo,RJ,RJ,Rio de Janeiro
+60016,56.695416,-167.950763,Gonçalves da Mata,MG,MG,Minas Gerais
+30169,-87.114494,-157.10083,Martins de Barros,SP,SP,São Paulo
+58955,-62.26387,-95.886293,Lima Grande,PR,PR,Paraná
+39033,54.374879,7.496845,Fogaça,BA,BA,Bahia
+37810,-76.70383,-85.964355,Araújo,PR,PR,Paraná
+46415,89.246101,171.711525,Campos de Correia,BA,BA,Bahia
+44546,4.460633,-57.866965,da Paz,SP,SP,São Paulo
+77502,-12.3781865,64.358217,da Rosa,BA,BA,Bahia
+49539,51.282232,-131.738421,Vasconcelos,BA,BA,Bahia
+96082,-6.52896,179.764414,Montenegro de Goiás,MG,MG,Minas Gerais
+38770,-77.9553135,-137.724245,Fogaça de Teixeira,RJ,RJ,Rio de Janeiro
+62606,-50.1434565,78.806719,Teixeira,RJ,RJ,Rio de Janeiro
+65802,-74.9019705,34.402848,Fogaça da Serra,BA,BA,Bahia
+98397,-25.099647,124.539995,Sá de Cardoso,MG,MG,Minas Gerais
+81768,-23.676115,65.460645,da Cruz dos Dourados,PR,PR,Paraná
+49232,-68.7753375,89.918712,Ferreira Alegre,RJ,RJ,Rio de Janeiro
+62921,82.126084,20.181743,da Rosa,MG,MG,Minas Gerais
+61167,78.765557,-121.332954,Viana,PR,PR,Paraná
+95429,37.117445,90.306066,Nogueira da Praia,SC,SC,Santa Catarina
+61820,5.307699,144.668295,Costa da Serra,SC,SC,Santa Catarina
+16306,2.786089,-26.660481,Azevedo de Santos,MG,MG,Minas Gerais
+54969,37.765978,151.579166,Dias,SC,SC,Santa Catarina
+81336,61.506113,160.217439,Cavalcante,PR,PR,Paraná
+42495,12.752708,166.445584,Pacheco Paulista,RJ,RJ,Rio de Janeiro
+55183,84.648342,-145.027904,Vargas,SC,SC,Santa Catarina
+98078,7.293279,42.678669,Pires do Oeste,RJ,RJ,Rio de Janeiro
+04651,36.3540155,174.705858,Abreu de Cirino,RJ,RJ,Rio de Janeiro
+58846,79.240447,-93.746048,Freitas,PR,PR,Paraná
+58378,49.706118,115.543359,Leão das Pedras,PR,PR,Paraná
+08986,-24.239327,113.931629,Fogaça,SP,SP,São Paulo
+17014,38.057874,145.259296,Sá de Mendonça,MG,MG,Minas Gerais
+38666,80.1285525,-90.878642,Teixeira,PR,PR,Paraná
+19388,80.4425965,-49.149669,Azevedo das Flores,SP,SP,São Paulo
+85101,-11.4029205,-0.000172,Porto Alegre,SP,SP,São Paulo
+73321,-52.3588005,21.077014,Rodrigues,SC,SC,Santa Catarina
+65034,7.8291575,91.955239,Farias,MG,MG,Minas Gerais
+26695,4.1553485,176.08942,Albuquerque,SC,SC,Santa Catarina
+59324,20.27145,-101.17759,Viana do Amparo,SC,SC,Santa Catarina
+36346,-33.4561865,-35.560246,Monteiro,SC,SC,Santa Catarina
+84074,-51.0081755,-152.858491,Rodrigues,SC,SC,Santa Catarina
+09030,34.630231,156.635248,Teixeira Verde,SP,SP,São Paulo
+08539,58.7226285,81.79267,das Neves dos Dourados,BA,BA,Bahia
+73202,-57.2388365,167.472299,Fonseca do Amparo,RJ,RJ,Rio de Janeiro
+08215,12.5888385,87.126435,Pires da Prata,MG,MG,Minas Gerais
+59553,-31.9199975,-41.463061,Duarte da Serra,MG,MG,Minas Gerais
+68759,-87.28887,5.644806,Camargo Alegre,PR,PR,Paraná
+66349,-33.418188,76.809445,Novais,RJ,RJ,Rio de Janeiro
+91059,75.8666105,-108.409093,Sousa de Duarte,SP,SP,São Paulo
+64838,-53.5372455,-161.31426,Aragão do Sul,SC,SC,Santa Catarina
+29488,57.2850225,100.208687,da Mata do Galho,SP,SP,São Paulo
+71096,-69.131441,-17.216815,Cardoso,MG,MG,Minas Gerais
+23246,-8.8144275,-153.899935,Teixeira de Aparecida,SC,SC,Santa Catarina
+12589,-58.233329,3.080137,da Paz de Andrade,SP,SP,São Paulo
+49041,-41.2242525,-20.990572,Barros,SP,SP,São Paulo
+09396,15.2610805,-102.132213,da Mota,RJ,RJ,Rio de Janeiro
+34519,-11.12612,176.192442,Farias da Praia,SP,SP,São Paulo
+31555,-8.538676,-22.107928,Guerra da Praia,PR,PR,Paraná
+83918,-68.4071065,-48.845174,Nogueira,SC,SC,Santa Catarina
+18779,-79.303383,-40.502216,Vasconcelos,MG,MG,Minas Gerais
+04734,-43.4313075,-13.636049,Correia,RJ,RJ,Rio de Janeiro
+24909,81.2483495,135.93875,Farias das Pedras,RJ,RJ,Rio de Janeiro
+35051,-5.1835885,46.456599,da Luz,BA,BA,Bahia
+28785,-48.7571215,74.596074,Vieira da Mata,BA,BA,Bahia
+22354,-33.8466695,-138.908116,Mendonça,RJ,RJ,Rio de Janeiro
+71808,-23.709598,33.158137,Costa,PR,PR,Paraná
+57364,64.4362675,28.637451,Vasconcelos da Praia,RJ,RJ,Rio de Janeiro
+01648,57.1068035,136.847583,Câmara das Flores,BA,BA,Bahia
+45645,4.2731525,-39.093815,Câmara Grande,RJ,RJ,Rio de Janeiro
+60159,16.798874,-138.679438,Ferreira do Galho,BA,BA,Bahia
+30038,84.8013055,-67.894636,Vieira,PR,PR,Paraná
+48382,-49.97626,-135.588565,Aparecida,BA,BA,Bahia
+45332,3.475116,-116.833439,Siqueira,BA,BA,Bahia
+92446,47.3179855,52.334501,da Mata do Sul,SC,SC,Santa Catarina
+03000,-61.206119,-112.122158,Mendes Paulista,RJ,RJ,Rio de Janeiro
+25330,26.3617625,162.324859,Alves de Vieira,MG,MG,Minas Gerais
+03387,-85.288804,99.243944,Macedo Paulista,RJ,RJ,Rio de Janeiro
+01928,68.075063,-148.923429,Oliveira de Alves,BA,BA,Bahia
+64158,-28.588761,-79.325443,Rocha,SP,SP,São Paulo
+09913,20.3767535,-152.76621,Pires,RJ,RJ,Rio de Janeiro
+20522,18.1932835,-117.091519,Barbosa,SP,SP,São Paulo
+72027,63.148192,-102.927883,Fogaça de da Rocha,BA,BA,Bahia
+88830,-4.72861,136.767493,Rezende,PR,PR,Paraná
+37949,64.8275265,75.433301,Campos,BA,BA,Bahia
+19730,74.252406,-165.434536,da Rosa,BA,BA,Bahia
+65245,-34.885779,166.843645,Brito,MG,MG,Minas Gerais
+43816,5.041526,-116.438302,Moraes das Pedras,RJ,RJ,Rio de Janeiro
+51298,46.1796035,-159.094868,Moreira do Sul,SC,SC,Santa Catarina
+17046,67.82144,-69.733979,Gonçalves de Goiás,SP,SP,São Paulo
+96919,-60.214269,-22.480891,Fernandes,SC,SC,Santa Catarina
+12594,87.950179,-172.343886,Sampaio do Galho,BA,BA,Bahia
+05898,43.91918,70.921781,Gomes,MG,MG,Minas Gerais
+68859,48.684542,-12.82775,Camargo Grande,BA,BA,Bahia
+04712,-9.2387225,-106.333717,Guerra,SP,SP,São Paulo
+13922,83.700657,-23.998128,Teixeira de da Cunha,BA,BA,Bahia
+52390,-25.7606525,154.325097,Guerra da Prata,SP,SP,São Paulo
+18396,-27.571244,-0.643952,Cavalcante do Galho,SP,SP,São Paulo
+25019,-57.374311,35.92235,Moreira,SP,SP,São Paulo
+01018,21.339071,-81.372234,da Cunha,PR,PR,Paraná
+80758,-55.192472,69.31657,Camargo,PR,PR,Paraná
+17173,-13.8493675,-97.926127,Camargo,MG,MG,Minas Gerais
+62819,-50.7743525,45.729623,Nunes,MG,MG,Minas Gerais
+81184,-27.813995,102.984728,Casa Grande de Melo,BA,BA,Bahia
+94129,-14.661133,83.569531,Barbosa,RJ,RJ,Rio de Janeiro
+45560,-26.851561,116.694206,Fernandes do Amparo,SP,SP,São Paulo
+52001,61.654869,-165.607145,Pastor,SC,SC,Santa Catarina
+81320,74.0744865,45.934387,Correia das Pedras,MG,MG,Minas Gerais
+06706,73.293963,162.296664,Freitas do Norte,SP,SP,São Paulo
+36389,-75.9160005,-78.826264,Santos Grande,SP,SP,São Paulo
+15391,-41.3058335,22.478849,Viana do Sul,MG,MG,Minas Gerais
+02312,-63.7152085,88.845531,da Paz de Silveira,PR,PR,Paraná
+15966,-80.5618625,64.866614,da Conceição,PR,PR,Paraná
+09072,-47.5697885,-64.931537,Casa Grande da Mata,MG,MG,Minas Gerais
+51282,19.4048755,24.752543,Pimenta da Mata,SP,SP,São Paulo
+97157,54.403733,31.097251,Pastor,SC,SC,Santa Catarina
+38829,-12.551484,7.368774,Araújo de Pacheco,SC,SC,Santa Catarina
+48351,78.8020455,13.090707,Sousa Verde,MG,MG,Minas Gerais
+85995,-81.7910515,59.396783,Almeida de Jesus,SP,SP,São Paulo
+89246,-81.339155,-101.148427,Aparecida do Campo,SC,SC,Santa Catarina
+65273,9.7300785,-179.663093,da Cruz Grande,PR,PR,Paraná
+27155,-79.955488,-171.149789,Farias,RJ,RJ,Rio de Janeiro
+53603,-53.834426,-56.705759,Casa Grande do Amparo,SC,SC,Santa Catarina
+86382,41.696836,-155.333911,da Luz,RJ,RJ,Rio de Janeiro
+70188,18.999036,43.242922,Santos do Norte,PR,PR,Paraná
+25454,71.9134765,140.838215,Camargo,SC,SC,Santa Catarina
+63193,-53.5542275,-15.160832,Fernandes,PR,PR,Paraná
+51001,-12.270797,-87.454524,Rodrigues,SC,SC,Santa Catarina
+63816,29.838264,169.703502,Souza de Dias,SC,SC,Santa Catarina
+73858,-57.058013,2.652786,Leão,SP,SP,São Paulo
+56929,36.1462225,-57.07954,Sales do Galho,SC,SC,Santa Catarina
+71996,-12.5695255,55.523792,Cavalcante Alegre,SP,SP,São Paulo
+64267,-39.0856375,93.915546,Silveira de Novais,BA,BA,Bahia
+29832,77.195106,-163.033835,Cunha,PR,PR,Paraná
+30002,-76.8563755,-177.899464,Andrade,RJ,RJ,Rio de Janeiro
+62482,82.72941,100.348284,Vargas do Campo,BA,BA,Bahia
+02473,-2.7063225,96.035706,Vargas de Fernandes,BA,BA,Bahia
+91237,-74.1031975,88.280862,Cunha,PR,PR,Paraná
+52691,-87.765483,6.110432,Sales,MG,MG,Minas Gerais
+26347,82.048578,-38.693157,Rodrigues da Praia,BA,BA,Bahia
+44330,-21.391996,-22.360735,Vasconcelos do Norte,SC,SC,Santa Catarina
+75301,-22.566184,164.446109,Nascimento de Marques,RJ,RJ,Rio de Janeiro
+46656,-21.709063,-139.062093,Ferreira,RJ,RJ,Rio de Janeiro
+45021,-58.0918055,-90.704159,Viana,PR,PR,Paraná
+31185,23.8694965,120.764189,Lima Grande,SP,SP,São Paulo
+53114,61.4263025,128.988163,Almeida de Sampaio,RJ,RJ,Rio de Janeiro
+77287,-10.6589735,-87.349418,Monteiro Grande,RJ,RJ,Rio de Janeiro
+74987,-0.628608,-174.362388,Porto do Amparo,PR,PR,Paraná
+69576,-47.345741,-85.228784,Azevedo de Goiás,BA,BA,Bahia
+68743,-63.7020525,-15.938896,das Neves,SC,SC,Santa Catarina
+78828,-46.1137375,-163.533531,da Mata,SP,SP,São Paulo
+99013,-60.6349455,44.543706,Rodrigues,PR,PR,Paraná
+74190,-5.1589565,-46.405103,Vasconcelos Paulista,SC,SC,Santa Catarina
+04849,75.2916225,-166.301985,Campos do Sul,BA,BA,Bahia
+82505,-83.3913725,-121.671309,Garcia,SC,SC,Santa Catarina
+51856,63.7738915,-129.30184,Costa de Dias,BA,BA,Bahia
+96138,65.9302835,65.54535,Moura,BA,BA,Bahia
+49745,6.497505,-30.071454,Brito,SC,SC,Santa Catarina
+40933,-78.8165685,10.76929,Barbosa,SP,SP,São Paulo
+29428,67.4605995,-19.154501,Camargo,RJ,RJ,Rio de Janeiro
+32124,-40.6332235,-40.328572,Silveira,PR,PR,Paraná
+69626,37.616653,120.549658,Nunes dos Dourados,SP,SP,São Paulo
+78320,43.9402305,90.085989,Moraes dos Dourados,SC,SC,Santa Catarina
+62495,37.4529335,-154.118966,Gonçalves,SC,SC,Santa Catarina
+79784,71.439927,-159.538704,Alves,BA,BA,Bahia
+80873,-79.503201,-153.911868,Moraes do Campo,SC,SC,Santa Catarina
+47532,37.451001,-17.255048,da Costa,BA,BA,Bahia
+68171,20.10606,-174.598804,Jesus,MG,MG,Minas Gerais
+12190,-68.486898,-82.665439,Mendonça,RJ,RJ,Rio de Janeiro
+85104,8.2509805,62.048545,Peixoto,RJ,RJ,Rio de Janeiro
+35958,5.370383,-96.202851,Mendes de da Mata,RJ,RJ,Rio de Janeiro
+95552,16.2943505,75.739112,Pires da Prata,MG,MG,Minas Gerais
+74833,57.1438655,-98.803799,Ramos,MG,MG,Minas Gerais
+54866,53.4829095,-112.767805,da Rosa do Amparo,MG,MG,Minas Gerais
+20158,20.896453,102.127551,Macedo do Sul,RJ,RJ,Rio de Janeiro
+00594,-84.793585,-94.058678,Martins,RJ,RJ,Rio de Janeiro
+58921,24.341638,-156.055203,Sá,SC,SC,Santa Catarina
+53013,2.213267,37.303298,Pastor,RJ,RJ,Rio de Janeiro
+48420,-79.557679,19.2584,Vasconcelos,SP,SP,São Paulo
+34051,-20.9740425,29.525391,Fonseca Paulista,BA,BA,Bahia
+41231,-69.872709,-154.100148,Pereira Paulista,SP,SP,São Paulo
+51437,-77.8375205,-38.146735,Oliveira,SC,SC,Santa Catarina
+81824,10.9489155,-143.192588,Duarte Paulista,BA,BA,Bahia
+61332,-87.3802205,42.066231,Novais,SP,SP,São Paulo
+02119,11.136274,-68.563847,Pereira,PR,PR,Paraná
+11284,30.209731,-168.133813,Nascimento de Minas,SP,SP,São Paulo
+24193,77.042273,70.535257,Marques,PR,PR,Paraná
+20674,-30.6311845,-79.601732,Vieira Verde,BA,BA,Bahia
